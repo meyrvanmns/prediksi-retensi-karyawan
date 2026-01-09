@@ -7,7 +7,7 @@ Dengan sistem ini, perusahaan bisa lebih cepat mengambil tindakan sebelum karyaw
 
 ## 🚀 Demo Aplikasi
 👉 **Link Deploy:**  
-[https://link-deploy-streamlit-anda-di-sini](https://prediksi-retensi-karyawan.streamlit.app/)
+https://prediksi-retensi-karyawan.streamlit.app/
 
 ---
 
