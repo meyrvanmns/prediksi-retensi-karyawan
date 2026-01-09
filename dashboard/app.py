@@ -4,9 +4,9 @@ import numpy as np
 import joblib
 
 # Load model dan pendukung
-model = joblib.load("employee_retention_model.pkl")
-scaler = joblib.load("scaler.pkl")
-features = joblib.load("features.pkl")
+model = joblib.load("../model/employee_retention_model.pkl")
+scaler = joblib.load("../model/scaler.pkl")
+features = joblib.load("../model/features.pkl")
 
 st.set_page_config(
     page_title="Sistem Prediksi Retensi Karyawan",
