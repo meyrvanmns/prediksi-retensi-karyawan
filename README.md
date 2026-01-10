@@ -40,14 +40,6 @@ Hasil prediksi ditampilkan dalam dashboard agar mudah dipahami, termasuk oleh pe
 - Streamlit  
 - Pandas & NumPy  
 
----
-
-## 📌 Catatan
-Proyek ini dibuat sebagai **portofolio AI Engineer / Data Scientist** dan masih bisa dikembangkan, misalnya dengan:
-- penjelasan faktor penyebab resign (Explainable AI),
-- integrasi API,
-- atau penggunaan data real perusahaan.
-
 --- 
 
 GitHub: https://github.com/meyrvanmns  
